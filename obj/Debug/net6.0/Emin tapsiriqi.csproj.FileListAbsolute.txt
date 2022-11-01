@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Emin tapsiriqi\bin\Debug\net6.0\Emin tapsiriqi.exe
+C:\Users\ASUS\Desktop\Emin tapsiriqi\bin\Debug\net6.0\Emin tapsiriqi.deps.json
+C:\Users\ASUS\Desktop\Emin tapsiriqi\bin\Debug\net6.0\Emin tapsiriqi.runtimeconfig.json
+C:\Users\ASUS\Desktop\Emin tapsiriqi\bin\Debug\net6.0\Emin tapsiriqi.dll
+C:\Users\ASUS\Desktop\Emin tapsiriqi\bin\Debug\net6.0\Emin tapsiriqi.pdb
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\Emin tapsiriqi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\Emin tapsiriqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\Emin tapsiriqi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\Emin tapsiriqi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\Emin tapsiriqi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\Emin tapsiriqi.dll
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\refint\Emin tapsiriqi.dll
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\Emin tapsiriqi.pdb
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\Emin tapsiriqi.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Emin tapsiriqi\obj\Debug\net6.0\ref\Emin tapsiriqi.dll
